@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOBWang1117
 - 👀 I’m interested in C, C++, Java, Python, etc.
-- 🌱 I’m currently learning: Computer Version.
+- 🌱 I’m currently learning: Computer Graphics.
 - 💞️ I’m a student at Macau University of Sicence and Technology.
 - 📫 How to reach me: 1040851739@qq.com.
 
