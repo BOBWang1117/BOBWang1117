@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BOBWang1117
-- 👀 I’m interested in C, C++, Java, Python, etc.
+- 👀 I’m interested in C, C++, Python, Java, etc.
 - 🌱 I’m currently learning: Computer Graphics.
 - 💞️ I’m a undergratuate student in at Macau University of Sicence and Technology (2018 - 2022).
 - 💞️ I’m a graduate student in at Illinois Institute of Technology (2022 - now).
