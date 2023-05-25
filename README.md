@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOBWang1117
 - 👀 I’m interested in C, C++, Python, Java, etc.
-- 🌱 I’m currently learning: Computer Graphics.
+- 🌱 I’m currently learning: Convolutional neural network (CNN).
 - 💞️ I’m a undergratuate student in at Macau University of Sicence and Technology (2018 - 2022).
 - 💞️ I’m a graduate student in at Illinois Institute of Technology (2022 - now).
 - 📫 How to reach me: 1040851739@qq.com / hwang218@hawk.iit.edu
